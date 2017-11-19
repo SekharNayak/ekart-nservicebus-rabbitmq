@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eKart.Messages", "eKart.Messages\eKart.Messages.csproj", "{306BE93B-0371-4C6A-912D-D21296AE340C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eKart.Rest", "eKart.Rest\eKart.Rest.csproj", "{9ACFF800-8CAD-45DF-8827-F18CBC6EF6B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eKart.Web", "eKart.Web\eKart.Web.csproj", "{360E4899-28D6-407C-81E1-D63CF6816BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eKart.Orders", "eKart.Orders\eKart.Orders.csproj", "{EC4AC930-B97F-4833-B7B2-249413FC6D3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306BE93B-0371-4C6A-912D-D21296AE340C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306BE93B-0371-4C6A-912D-D21296AE340C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306BE93B-0371-4C6A-912D-D21296AE340C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306BE93B-0371-4C6A-912D-D21296AE340C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACFF800-8CAD-45DF-8827-F18CBC6EF6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACFF800-8CAD-45DF-8827-F18CBC6EF6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACFF800-8CAD-45DF-8827-F18CBC6EF6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACFF800-8CAD-45DF-8827-F18CBC6EF6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360E4899-28D6-407C-81E1-D63CF6816BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360E4899-28D6-407C-81E1-D63CF6816BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360E4899-28D6-407C-81E1-D63CF6816BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360E4899-28D6-407C-81E1-D63CF6816BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4AC930-B97F-4833-B7B2-249413FC6D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4AC930-B97F-4833-B7B2-249413FC6D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4AC930-B97F-4833-B7B2-249413FC6D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4AC930-B97F-4833-B7B2-249413FC6D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

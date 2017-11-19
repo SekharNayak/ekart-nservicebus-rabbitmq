@@ -1,0 +1,47 @@
+﻿2017-11-19 10:49:05.681 INFO  DefaultFactory Logging to 'D:\temp-work\eKart\eKart.Rest\App_Data\' with level Info
+2017-11-19 10:50:21.163 INFO  DefaultFactory Logging to 'D:\temp-work\eKart\eKart.Rest\App_Data\' with level Info
+2017-11-19 10:50:21.286 INFO  NServiceBus.LicenseManager Selected active license from HKEY_LOCAL_MACHINE\SOFTWARE\ParticularSoftware
+License Expiration: 31 January 2018
+
+2017-11-19 10:50:22.595 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'SAPIENT\snaya3' to group 'Performance Monitor Users' because the user is already in group.
+2017-11-19 10:50:22.620 WARN  NServiceBus.StartableEndpoint All queues owned by the 'eKart.Rest' endpoint will be purged on startup.
+2017-11-19 10:50:22.686 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-11-19 10:50:22.698 WARN  NServiceBus.QueuePermissions Queue [private$\eKart.Rest.Timeouts] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-11-19 10:50:22.708 WARN  NServiceBus.QueuePermissions Queue [private$\eKart.Rest.TimeoutsDispatcher] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-11-19 10:50:22.719 WARN  NServiceBus.QueuePermissions Queue [private$\eKart.Rest.Retries] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-11-19 10:50:22.735 WARN  NServiceBus.QueuePermissions Queue [private$\eKart.Rest] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-11-19 10:50:22.743 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-11-19 10:50:22.747 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-11-19 10:50:22.750 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-11-19 11:14:27.412 INFO  DefaultFactory Logging to 'D:\temp-work\eKart\eKart.Rest\App_Data\' with level Info
+2017-11-19 11:14:27.535 INFO  NServiceBus.LicenseManager Selected active license from HKEY_LOCAL_MACHINE\SOFTWARE\ParticularSoftware
+License Expiration: 31 January 2018
+
+2017-11-19 11:14:27.690 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'SAPIENT\snaya3' to group 'Performance Monitor Users' because the user is already in group.
+2017-11-19 11:14:27.713 WARN  NServiceBus.StartableEndpoint All queues owned by the 'eKart.Rest' endpoint will be purged on startup.
+2017-11-19 11:14:27.759 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-11-19 11:14:27.773 WARN  NServiceBus.QueuePermissions Queue [private$\eKart.Rest.Timeouts] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-11-19 11:14:27.781 WARN  NServiceBus.QueuePermissions Queue [private$\eKart.Rest.TimeoutsDispatcher] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-11-19 11:14:27.789 WARN  NServiceBus.QueuePermissions Queue [private$\eKart.Rest.Retries] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-11-19 11:14:27.795 WARN  NServiceBus.QueuePermissions Queue [private$\eKart.Rest] is running with [Everyone] with AccessRights set to [GetQueueProperties, GetQueuePermissions]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-11-19 11:14:27.802 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-11-19 11:14:27.804 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-11-19 11:14:27.805 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-11-19 11:39:46.950 INFO  DefaultFactory Logging to 'D:\temp-work\eKart\eKart.Rest\App_Data\' with level Info
+2017-11-19 11:39:47.087 INFO  NServiceBus.LicenseManager Selected active license from HKEY_LOCAL_MACHINE\SOFTWARE\ParticularSoftware
+License Expiration: 31 January 2018
+
+2017-11-19 11:39:47.858 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'SAPIENT\snaya3' to group 'Performance Monitor Users' because the user is already in group.
+2017-11-19 11:39:47.885 WARN  NServiceBus.StartableEndpoint All queues owned by the 'eKart.Rest' endpoint will be purged on startup.
+2017-11-19 11:39:47.937 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-11-19 11:39:47.940 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-11-19 11:39:47.943 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-11-19 12:47:15.135 INFO  DefaultFactory Logging to 'D:\temp-work\eKart\eKart.Rest\App_Data\' with level Info
+2017-11-19 12:47:15.256 INFO  NServiceBus.LicenseManager Selected active license from HKEY_LOCAL_MACHINE\SOFTWARE\ParticularSoftware
+License Expiration: 31 January 2018
+
+2017-11-19 12:47:15.483 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'SAPIENT\snaya3' to group 'Performance Monitor Users' because the user is already in group.
+2017-11-19 12:47:15.510 WARN  NServiceBus.StartableEndpoint All queues owned by the 'eKart.Rest' endpoint will be purged on startup.
+2017-11-19 12:47:15.563 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-11-19 12:47:15.565 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-11-19 12:47:15.572 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.

@@ -1,0 +1,15 @@
+D:\temp-work\eKart\eKart.Orders\bin\Debug\eKart.Orders.exe.config
+D:\temp-work\eKart\eKart.Orders\bin\Debug\eKart.Orders.exe
+D:\temp-work\eKart\eKart.Orders\bin\Debug\eKart.Orders.pdb
+D:\temp-work\eKart\eKart.Orders\bin\Debug\eKart.Messages.dll
+D:\temp-work\eKart\eKart.Orders\bin\Debug\NServiceBus.Core.dll
+D:\temp-work\eKart\eKart.Orders\bin\Debug\eKart.Messages.pdb
+D:\temp-work\eKart\eKart.Orders\bin\Debug\NServiceBus.Core.pdb
+D:\temp-work\eKart\eKart.Orders\bin\Debug\NServiceBus.Core.xml
+D:\temp-work\eKart\eKart.Orders\obj\Debug\eKart.Orders.csprojResolveAssemblyReference.cache
+D:\temp-work\eKart\eKart.Orders\obj\Debug\eKart.Orders.exe
+D:\temp-work\eKart\eKart.Orders\obj\Debug\eKart.Orders.pdb
+D:\temp-work\eKart\eKart.Orders\bin\Debug\NServiceBus.Transports.RabbitMQ.dll
+D:\temp-work\eKart\eKart.Orders\bin\Debug\RabbitMQ.Client.dll
+D:\temp-work\eKart\eKart.Orders\bin\Debug\NServiceBus.Transports.RabbitMQ.pdb
+D:\temp-work\eKart\eKart.Orders\bin\Debug\NServiceBus.Transports.RabbitMQ.xml

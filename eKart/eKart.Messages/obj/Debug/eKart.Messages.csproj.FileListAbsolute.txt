@@ -1,0 +1,8 @@
+D:\temp-work\eKart\eKart.Messages\bin\Debug\eKart.Messages.dll
+D:\temp-work\eKart\eKart.Messages\bin\Debug\eKart.Messages.pdb
+D:\temp-work\eKart\eKart.Messages\bin\Debug\NServiceBus.Core.dll
+D:\temp-work\eKart\eKart.Messages\bin\Debug\NServiceBus.Core.pdb
+D:\temp-work\eKart\eKart.Messages\bin\Debug\NServiceBus.Core.xml
+D:\temp-work\eKart\eKart.Messages\obj\Debug\eKart.Messages.dll
+D:\temp-work\eKart\eKart.Messages\obj\Debug\eKart.Messages.pdb
+D:\temp-work\eKart\eKart.Messages\obj\Debug\eKart.Messages.csprojResolveAssemblyReference.cache
